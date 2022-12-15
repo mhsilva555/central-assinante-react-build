@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/central-assinante-react/static/css/main.85747b6d.css",
+    "main.js": "/central-assinante-react/static/js/main.bb187fe5.js",
+    "static/js/787.2b037901.chunk.js": "/central-assinante-react/static/js/787.2b037901.chunk.js",
+    "static/media/logo.png": "/central-assinante-react/static/media/logo.6e48d099da954a2a02ba.png",
+    "index.html": "/central-assinante-react/index.html",
+    "main.85747b6d.css.map": "/central-assinante-react/static/css/main.85747b6d.css.map",
+    "main.bb187fe5.js.map": "/central-assinante-react/static/js/main.bb187fe5.js.map",
+    "787.2b037901.chunk.js.map": "/central-assinante-react/static/js/787.2b037901.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85747b6d.css",
+    "static/js/main.bb187fe5.js"
+  ]
+}
